@@ -1,0 +1,6 @@
+[X-GNOME-Metatheme]
+Name=Aero
+Type=X-GNOME-Metatheme
+Comment=Aero theme
+Encoding=UTF-8
+GtkTheme=Aero
